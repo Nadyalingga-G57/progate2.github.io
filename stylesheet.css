@@ -73,6 +73,7 @@ header {
   display: inline-block;
   opacity: 0.8;
   border-radius: 6px;
+  text-align: right;
 }
 btn:hover {
   border-radius: 6px;
@@ -83,10 +84,10 @@ btn:hover {
 .btn-wrapper {
   margin: 10px 0;
   display: inline-block;
-  margin-right: 40px;
+  margin-right: 25px;
   margin-top: 0px;
   text-align: right;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 .btn-wrapper a {
   text-align: right;
