@@ -87,6 +87,7 @@ btn:hover {
   margin-right: 10px;
   margin-top: 10px;
   text-align: center;
+  background-color: white;
 }
 .message-wrapper {
   border-bottom: 2px solid #eee;
