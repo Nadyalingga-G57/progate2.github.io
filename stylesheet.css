@@ -69,7 +69,7 @@ header {
 }
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: black;
   display: inline-block;
   opacity: 0.8;
   border-radius: 6px;
@@ -87,7 +87,7 @@ btn:hover {
   margin-right: 10px;
   margin-top: 10px;
   text-align: center;
-  color: white;
+  color: black;
 }
 .message-wrapper {
   border-bottom: 3px solid black;
