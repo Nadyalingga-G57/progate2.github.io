@@ -84,12 +84,9 @@ btn:hover {
 .btn-wrapper {
   margin: 15px 0;
   display: inline-block;
-  margin-right: 50px;
-  margin-top: 0px;
+  margin-right: 10px;
+  margin-top: 10px;
   text-align: center;
-}
-.btn-wrapper a {
-  text-align: right;
 }
 .message-wrapper {
   border-bottom: 2px solid #eee;
