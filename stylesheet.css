@@ -38,7 +38,7 @@ header {
 }
 .main{
   background-color: #f7f1e3;
-  padding: 100px 80px;
+  padding: 100px 50px;
 }
 .container {
   padding: 0px 20px;
@@ -73,7 +73,7 @@ header {
   display: inline-block;
   opacity: 0.8;
   border-radius: 6px;
-  text-align: right;
+  text-align: center;
 }
 btn:hover {
   border-radius: 6px;
