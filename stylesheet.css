@@ -81,10 +81,14 @@ btn:hover {
   transition: all 0.5s;
 }
 .btn-wrapper {
-  margin: 15px 0;
+  margin: 10px 0;
   display: inline-block;
-  margin-right: 60px;
+  margin-right: 40px;
   margin-top: 0px;
+  text-align: right;
+  padding-left: 30px;
+}
+.btn-wrapper a {
   text-align: right;
 }
 .message-wrapper {
