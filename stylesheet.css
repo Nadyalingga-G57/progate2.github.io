@@ -82,12 +82,11 @@ btn:hover {
   transition: all 0.5s;
 }
 .btn-wrapper {
-  margin: 10px 0;
+  margin: 15px 0;
   display: inline-block;
-  margin-right: 25px;
+  margin-right: 50px;
   margin-top: 0px;
   text-align: right;
-  padding-left: 20px;
 }
 .btn-wrapper a {
   text-align: right;
